@@ -1,0 +1,7 @@
+{
+  "name": "IntelliCore Real Estate",
+  "description": "A premium real estate platform featuring modern property discovery, hero animations, and professional layout.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
